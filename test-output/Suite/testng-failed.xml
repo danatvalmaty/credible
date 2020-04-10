@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.credible.utility.Methods"/>
+  </listeners>
+  <test thread-count="5" name="Student Loan Test(failed)">
+    <classes>
+      <class name="com.credible.testCases.StudentLoanFinancial">
+        <methods>
+          <include name="AfterTest"/>
+          <include name="setEmploymentIncome"/>
+          <include name="AfterTestMethod"/>
+          <include name="clickContinue"/>
+          <include name="setOtherIndividualIncome"/>
+          <include name="BeforeTestMethod"/>
+          <include name="BeforeTest"/>
+          <include name="setIncomeFromOtherHouseholdMembers"/>
+          <include name="setMonthlyHousingPayment"/>
+        </methods>
+      </class> <!-- com.credible.testCases.StudentLoanFinancial -->
+      <class name="com.credible.testCases.StudentLoanEducation">
+        <methods>
+          <include name="clickCurrentYearOfStudySelect"/>
+          <include name="setAcademicPeriodOfLoan"/>
+          <include name="clickSelectDegreeTypeBachelor"/>
+          <include name="clickBtnIamStudent"/>
+          <include name="clickSelectCurrentYearOfStudy"/>
+          <include name="AfterTestMethod"/>
+          <include name="clickRadioBtnNoOne"/>
+          <include name="BeforeTestMethod"/>
+          <include name="inputDataSchool"/>
+          <include name="clickContinue"/>
+          <include name="clickExpectedGraduationCompletionDate"/>
+          <include name="AfterTest"/>
+          <include name="clickRadioBtnNoTwo"/>
+          <include name="clickStudentLoan"/>
+          <include name="setRequestedLoanAmount"/>
+          <include name="BeforeTest"/>
+          <include name="clickSelectDegreeType"/>
+        </methods>
+      </class> <!-- com.credible.testCases.StudentLoanEducation -->
+      <class name="com.credible.testCases.StudentLoanProfile">
+        <methods>
+          <include name="setPermanentAddress"/>
+          <include name="AfterTest"/>
+          <include name="setFirstnameLastnameSuffix"/>
+          <include name="setEmailAddress"/>
+          <include name="AfterTestMethod"/>
+          <include name="BeforeTestMethod"/>
+          <include name="setPrimaryPhoneNumber"/>
+          <include name="BeforeTest"/>
+          <include name="setDateOfBirth"/>
+        </methods>
+      </class> <!-- com.credible.testCases.StudentLoanProfile -->
+    </classes>
+  </test> <!-- Student Loan Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

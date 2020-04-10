@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="28" passed="24">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="523685" started-at="2020-04-10T02:06:28Z" finished-at="2020-04-10T02:15:12Z">
+    <groups>
+    </groups>
+    <test name="Student Loan Test" duration-ms="523685" started-at="2020-04-10T02:06:28Z" finished-at="2020-04-10T02:15:12Z">
+      <class name="com.credible.testCases.StudentLoanFinancial">
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanFinancial@6b58b9e9]" name="BeforeTestMethod" is-config="true" duration-ms="21097" started-at="2020-04-10T02:11:15Z" finished-at="2020-04-10T02:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="setEmploymentIncome()[pri:14, instance:com.credible.testCases.StudentLoanFinancial@6b58b9e9]" name="setEmploymentIncome" duration-ms="175" started-at="2020-04-10T02:11:36Z" finished-at="2020-04-10T02:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEmploymentIncome -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanFinancial@6b58b9e9]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:11:36Z" finished-at="2020-04-10T02:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanFinancial@6b58b9e9]" name="BeforeTestMethod" is-config="true" duration-ms="21044" started-at="2020-04-10T02:11:36Z" finished-at="2020-04-10T02:11:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="setOtherIndividualIncome()[pri:15, instance:com.credible.testCases.StudentLoanFinancial@6b58b9e9]" name="setOtherIndividualIncome" duration-ms="144" started-at="2020-04-10T02:11:57Z" finished-at="2020-04-10T02:11:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setOtherIndividualIncome -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanFinancial@6b58b9e9]" name="BeforeTestMethod" is-config="true" duration-ms="21090" started-at="2020-04-10T02:11:57Z" finished-at="2020-04-10T02:12:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanFinancial@6b58b9e9]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:11:57Z" finished-at="2020-04-10T02:11:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="setIncomeFromOtherHouseholdMembers()[pri:16, instance:com.credible.testCases.StudentLoanFinancial@6b58b9e9]" name="setIncomeFromOtherHouseholdMembers" duration-ms="124" started-at="2020-04-10T02:12:18Z" finished-at="2020-04-10T02:12:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setIncomeFromOtherHouseholdMembers -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanFinancial@6b58b9e9]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:12:18Z" finished-at="2020-04-10T02:12:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanFinancial@6b58b9e9]" name="BeforeTestMethod" is-config="true" duration-ms="21023" started-at="2020-04-10T02:12:18Z" finished-at="2020-04-10T02:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="setMonthlyHousingPayment()[pri:17, instance:com.credible.testCases.StudentLoanFinancial@6b58b9e9]" name="setMonthlyHousingPayment" duration-ms="139" started-at="2020-04-10T02:12:39Z" finished-at="2020-04-10T02:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setMonthlyHousingPayment -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanFinancial@6b58b9e9]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:12:40Z" finished-at="2020-04-10T02:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanFinancial@6b58b9e9]" name="BeforeTestMethod" is-config="true" duration-ms="21079" started-at="2020-04-10T02:12:40Z" finished-at="2020-04-10T02:13:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="clickContinue()[pri:18, instance:com.credible.testCases.StudentLoanFinancial@6b58b9e9]" name="clickContinue" duration-ms="116" started-at="2020-04-10T02:13:01Z" finished-at="2020-04-10T02:13:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickContinue -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanFinancial@6b58b9e9]" name="AfterTestMethod" is-config="true" duration-ms="1" started-at="2020-04-10T02:13:01Z" finished-at="2020-04-10T02:13:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+      </class> <!-- com.credible.testCases.StudentLoanFinancial -->
+      <class name="com.credible.testCases.StudentLoanEducation">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="BeforeTest" is-config="true" duration-ms="4447" started-at="2020-04-10T02:06:28Z" finished-at="2020-04-10T02:06:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="BeforeTestMethod" is-config="true" duration-ms="21152" started-at="2020-04-10T02:06:32Z" finished-at="2020-04-10T02:06:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="clickStudentLoan()[pri:1, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="clickStudentLoan" duration-ms="171" started-at="2020-04-10T02:06:54Z" finished-at="2020-04-10T02:06:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickStudentLoan -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:06:54Z" finished-at="2020-04-10T02:06:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="BeforeTestMethod" is-config="true" duration-ms="21068" started-at="2020-04-10T02:06:54Z" finished-at="2020-04-10T02:07:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="clickBtnIamStudent()[pri:2, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="clickBtnIamStudent" duration-ms="4302" started-at="2020-04-10T02:07:15Z" finished-at="2020-04-10T02:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickBtnIamStudent -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="AfterTestMethod" is-config="true" duration-ms="1" started-at="2020-04-10T02:07:19Z" finished-at="2020-04-10T02:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="BeforeTestMethod" is-config="true" duration-ms="21167" started-at="2020-04-10T02:07:19Z" finished-at="2020-04-10T02:07:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="clickRadioBtnNoOne()[pri:3, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="clickRadioBtnNoOne" duration-ms="158" started-at="2020-04-10T02:07:40Z" finished-at="2020-04-10T02:07:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickRadioBtnNoOne -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:07:41Z" finished-at="2020-04-10T02:07:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="BeforeTestMethod" is-config="true" duration-ms="21058" started-at="2020-04-10T02:07:41Z" finished-at="2020-04-10T02:08:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="clickRadioBtnNoTwo()[pri:4, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="clickRadioBtnNoTwo" duration-ms="143" started-at="2020-04-10T02:08:02Z" finished-at="2020-04-10T02:08:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickRadioBtnNoTwo -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:08:02Z" finished-at="2020-04-10T02:08:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="BeforeTestMethod" is-config="true" duration-ms="21057" started-at="2020-04-10T02:08:02Z" finished-at="2020-04-10T02:08:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="inputDataSchool()[pri:5, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="inputDataSchool" duration-ms="2527" started-at="2020-04-10T02:08:23Z" finished-at="2020-04-10T02:08:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputDataSchool -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:08:25Z" finished-at="2020-04-10T02:08:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="BeforeTestMethod" is-config="true" duration-ms="21059" started-at="2020-04-10T02:08:25Z" finished-at="2020-04-10T02:08:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="clickSelectDegreeType()[pri:6, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="clickSelectDegreeType" duration-ms="43" started-at="2020-04-10T02:08:46Z" finished-at="2020-04-10T02:08:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSelectDegreeType -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="BeforeTestMethod" is-config="true" duration-ms="21116" started-at="2020-04-10T02:08:46Z" finished-at="2020-04-10T02:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:08:46Z" finished-at="2020-04-10T02:08:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="clickSelectDegreeTypeBachelor()[pri:7, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="clickSelectDegreeTypeBachelor" duration-ms="51" started-at="2020-04-10T02:09:08Z" finished-at="2020-04-10T02:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSelectDegreeTypeBachelor -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:09:08Z" finished-at="2020-04-10T02:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="BeforeTestMethod" is-config="true" duration-ms="21080" started-at="2020-04-10T02:09:08Z" finished-at="2020-04-10T02:09:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="clickCurrentYearOfStudySelect()[pri:8, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="clickCurrentYearOfStudySelect" duration-ms="127" started-at="2020-04-10T02:09:29Z" finished-at="2020-04-10T02:09:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCurrentYearOfStudySelect -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:09:29Z" finished-at="2020-04-10T02:09:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="BeforeTestMethod" is-config="true" duration-ms="21045" started-at="2020-04-10T02:09:29Z" finished-at="2020-04-10T02:09:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="clickSelectCurrentYearOfStudy()[pri:9, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="clickSelectCurrentYearOfStudy" duration-ms="36" started-at="2020-04-10T02:09:50Z" finished-at="2020-04-10T02:09:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSelectCurrentYearOfStudy -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:09:50Z" finished-at="2020-04-10T02:09:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="BeforeTestMethod" is-config="true" duration-ms="21058" started-at="2020-04-10T02:09:50Z" finished-at="2020-04-10T02:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="clickExpectedGraduationCompletionDate()[pri:10, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="clickExpectedGraduationCompletionDate" duration-ms="192" started-at="2020-04-10T02:10:11Z" finished-at="2020-04-10T02:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickExpectedGraduationCompletionDate -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:10:11Z" finished-at="2020-04-10T02:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="BeforeTestMethod" is-config="true" duration-ms="21036" started-at="2020-04-10T02:10:11Z" finished-at="2020-04-10T02:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="setAcademicPeriodOfLoan()[pri:11, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="setAcademicPeriodOfLoan" duration-ms="136" started-at="2020-04-10T02:10:32Z" finished-at="2020-04-10T02:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setAcademicPeriodOfLoan -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:10:32Z" finished-at="2020-04-10T02:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="BeforeTestMethod" is-config="true" duration-ms="21113" started-at="2020-04-10T02:10:32Z" finished-at="2020-04-10T02:10:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="setRequestedLoanAmount()[pri:12, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="setRequestedLoanAmount" duration-ms="201" started-at="2020-04-10T02:10:53Z" finished-at="2020-04-10T02:10:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setRequestedLoanAmount -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="AfterTestMethod" is-config="true" duration-ms="1" started-at="2020-04-10T02:10:54Z" finished-at="2020-04-10T02:10:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="BeforeTestMethod" is-config="true" duration-ms="21046" started-at="2020-04-10T02:10:54Z" finished-at="2020-04-10T02:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="clickContinue()[pri:13, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="clickContinue" duration-ms="44" started-at="2020-04-10T02:11:15Z" finished-at="2020-04-10T02:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickContinue -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="AfterTestMethod" is-config="true" duration-ms="1" started-at="2020-04-10T02:11:15Z" finished-at="2020-04-10T02:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:com.credible.testCases.StudentLoanEducation@4a3631f8]" name="AfterTest" is-config="true" duration-ms="328" started-at="2020-04-10T02:15:11Z" finished-at="2020-04-10T02:15:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- com.credible.testCases.StudentLoanEducation -->
+      <class name="com.credible.testCases.StudentLoanProfile">
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="BeforeTestMethod" is-config="true" duration-ms="21277" started-at="2020-04-10T02:13:01Z" finished-at="2020-04-10T02:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="setFirstnameLastnameSuffix()[pri:19, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="setFirstnameLastnameSuffix" duration-ms="432" started-at="2020-04-10T02:13:22Z" finished-at="2020-04-10T02:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setFirstnameLastnameSuffix -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="AfterTestMethod" is-config="true" duration-ms="1" started-at="2020-04-10T02:13:22Z" finished-at="2020-04-10T02:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="BeforeTestMethod" is-config="true" duration-ms="21081" started-at="2020-04-10T02:13:22Z" finished-at="2020-04-10T02:13:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="setDateOfBirth()[pri:20, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="setDateOfBirth" duration-ms="163" started-at="2020-04-10T02:13:44Z" finished-at="2020-04-10T02:13:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDateOfBirth -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="AfterTestMethod" is-config="true" duration-ms="1" started-at="2020-04-10T02:13:44Z" finished-at="2020-04-10T02:13:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="BeforeTestMethod" is-config="true" duration-ms="21102" started-at="2020-04-10T02:13:44Z" finished-at="2020-04-10T02:14:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="setPrimaryPhoneNumber()[pri:21, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="setPrimaryPhoneNumber" duration-ms="197" started-at="2020-04-10T02:14:05Z" finished-at="2020-04-10T02:14:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPrimaryPhoneNumber -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="BeforeTestMethod" is-config="true" duration-ms="21087" started-at="2020-04-10T02:14:05Z" finished-at="2020-04-10T02:14:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:14:05Z" finished-at="2020-04-10T02:14:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="setPermanentAddress()[pri:22, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="setPermanentAddress" duration-ms="2131" started-at="2020-04-10T02:14:26Z" finished-at="2020-04-10T02:14:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPermanentAddress -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:14:28Z" finished-at="2020-04-10T02:14:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="BeforeTestMethod" is-config="true" duration-ms="21081" started-at="2020-04-10T02:14:28Z" finished-at="2020-04-10T02:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="setEmailAddress()[pri:23, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="setEmailAddress" duration-ms="641" started-at="2020-04-10T02:14:49Z" finished-at="2020-04-10T02:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEmailAddress -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-10T02:14:50Z" finished-at="2020-04-10T02:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="BeforeTestMethod" is-config="true" duration-ms="21070" started-at="2020-04-10T02:14:50Z" finished-at="2020-04-10T02:15:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="setPassword()[pri:24, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="setPassword" duration-ms="324" started-at="2020-04-10T02:15:11Z" finished-at="2020-04-10T02:15:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPassword -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:com.credible.testCases.StudentLoanProfile@f14a7d4]" name="AfterTestMethod" is-config="true" duration-ms="1" started-at="2020-04-10T02:15:11Z" finished-at="2020-04-10T02:15:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+      </class> <!-- com.credible.testCases.StudentLoanProfile -->
+    </test> <!-- Student Loan Test -->
+  </suite> <!-- Suite -->
+</testng-results>
